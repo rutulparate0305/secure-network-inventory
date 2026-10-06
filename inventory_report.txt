@@ -1,0 +1,26 @@
+
+SECURE NETWORK ASSET INVENTORY
+==============================
+
+Scan Time: 2026-10-06 16:59:20.793422
+
+Hostname : kali
+IP Address: 127.0.1.1
+MAC Address: 62:c6:ed:de:99:fa
+
+Operating System: Linux
+Operating Systeem Version: 6.19.14+kali-arm64
+
+Network Interfaces: lo               UNKNOWN        127.0.0.1/8 ::1/128 
+eth0             UP             192.168.64.2/24 fdc6:e997:96cf:c903:e053:972b:e080:3c4f/64 fdc6:e997:96cf:c903:246c:deff:feed:99af/64 fe80::246c:deff:feed:99af/64 
+
+
+CPU Cores: 4
+Memory :  5.78 GB
+
+Disk Total :  63.83 GB
+Disk Used :  15.97 GB
+Disk Free :  44.58 GB
+Python Version: 3.13.14
+
+Architecture : aarch64
